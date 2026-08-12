@@ -10,7 +10,7 @@ Assessment Requirements
  
 // create a variable to hold your NFT's
 let nfts =[];
-
+ 
 // this function will take in some values as parameters, create an
 // NFT object using the parameters passed to it for its metadata, 
 // and store it in the variable above.
