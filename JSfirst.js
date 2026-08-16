@@ -20,7 +20,7 @@ function mintNFT (name, owner, description) {
         owner: owner,
         description: description
     };
-    nfts.push(nft);
+    nfts.push(nft); 
 
 }
 
