@@ -8,7 +8,7 @@ Assessment Requirements
 4. For good measure, getTotalSupply() should return the number of NFT's you have created
 */
  
-// create a variable to hold your NFT's
+// create a variable to hold your NFT's 
 let nfts =[];
   
 // this function will take in some values as parameters, create an
