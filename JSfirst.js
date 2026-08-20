@@ -22,7 +22,7 @@ function mintNFT (name, owner, description) {
     };
     nfts.push(nft); 
 
-}
+} 
 
 // create a "loop" that will go through an "array" of NFT's
 // and print their metadata with console.log()
