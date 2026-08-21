@@ -16,7 +16,7 @@ let nfts =[];
 // and store it in the variable above.
 function mintNFT (name, owner, description) {
     const nft ={
-        name: name,
+        name: name, 
         owner: owner,
         description: description
     };
